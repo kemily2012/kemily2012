@@ -1,7 +1,9 @@
-## Hi there 👋
-
+meu nome## kemily🖤
+estou estudando alura
+nao,estou gostando muito e um poquinho chato d entrar
+mai e o que tem para fazer nas aulas💙
 <!--
-**kemily2012/kemily2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kemily ** is a ✨ _special_ ✨ mello because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
